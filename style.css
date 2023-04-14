@@ -1,0 +1,22 @@
+div{
+    text-align: center;
+    
+    margin-top: 200px;
+    height: 400px;
+    width: 50%;
+    margin-left: 300px;
+    border-radius: 30px;
+
+}
+form{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("imag/pexels-felix-mittermeier-956999.jpg");
+    color: azure;
+   
+}
